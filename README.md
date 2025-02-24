@@ -1,3 +1,5 @@
+# Next.js app - Sqlite3 - CRUD #
+
 This is a small next.js app using de sqlite3 DB , showing a liste of personne and allowing to modify or delete a row in the table.
 
 ## Getting Started
